@@ -46,7 +46,7 @@ hr{
 
 
  	/*Responsive*/
-@media only screen and (max-device-width: 600px){
+@media only screen and (max-device-width: 800px){
 	
 	body{
 		text-align: center;
