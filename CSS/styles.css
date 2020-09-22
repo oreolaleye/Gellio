@@ -17,20 +17,20 @@ body{
 header .header{
 	margin: 60px 100px 30px 150px;
 }
-.header .row .col-md-6 .col-inner{
+.header .row .col-lg-6 .col-inner{
 	margin-top: 70px;
 	padding-left: 20px;
 }
-.header .row .col-md-6 .col-inner h1{
+.header .row .col-lg-6 .col-inner h1{
 	font-size: 70px;
 	font-weight: 900;
 }
-.header .row .col-md-6 .col-inner p{
+.header .row .col-lg-6 .col-inner p{
 	font-size: 30px;
 	font-weight: 400;
 	margin-top: 40px;
 }
-.header .row .col-md-6 .col-inner button{
+.header .row .col-lg-6 .col-inner button{
 	background-color: #ff9a76;
 	border-radius: 40px;
 	color: #000;
@@ -65,24 +65,24 @@ hr{
 	.header .row{
 		text-align: center;
 	}
-	header .header .row .col-md-6 img{
+	header .header .row .col-lg-6 img{
 		height: 292px;
 		width: 300px;
 	}
-	.header .row .col-md-6 .col-inner{
+	.header .row .col-lg-6 .col-inner{
 		margin-top: 70px;
 		padding: 0;
 	}
-	.header .row .col-md-6 .col-inner h1{
+	.header .row .col-lg-6 .col-inner h1{
 		font-size: 37px;
 		font-weight: 900;
 	}
-	.header .row .col-md-6 .col-inner p{
+	.header .row .col-lg-6 .col-inner p{
 		font-size: 20px;
 		font-weight: 400;
 		margin-top: 40px;
 	}
-	.header .row .col-md-6 .col-inner button{
+	.header .row .col-lg-6 .col-inner button{
 		background-color: #ff9a76;
 		border-radius: 40px;
 		color: #000;
